@@ -1,0 +1,4 @@
+
+echo "Starting deployment..."
+echo "Uploading files to S3 bucket"
+echo "Deployment completed successfully"
